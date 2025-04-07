@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("sibal");
 
-        System.out.println("checkbox1");
+        System.out.println("checkboxasdf1");
     }
 }
